@@ -1,2 +1,11 @@
-# mind-reading-computer-
-# Mind Reading Computer  Research paper exploring brain signal decoding for applications in assistive technology, neurology, and human-computer interaction.  **Published in:** Hinweis Research   **Role:** Team Leader
+# Mind Reading Computer
+
+A research paper exploring brain signal decoding for potential applications in assistive technology, neurology, and human-computer interaction.
+
+## Details
+- **Published in:** Hinweis Research
+- **Role:** Team Leader
+- **Focus:** Using brain signals to enable interaction between humans and computers
+
+## Abstract
+This work investigates techniques for decoding brain signals and discusses their possible use in assistive devices and human-computer interaction systems.
